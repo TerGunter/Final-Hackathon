@@ -1,0 +1,17 @@
+.footer-container {
+  background-color: white !important;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px -5px 5px 0px rgba(0, 0, 0, 0.53);
+  -webkit-box-shadow: 1px -5px 5px 0px rgba(0, 0, 0, 0.53);
+  -moz-box-shadow: 1px -5px 5px 0px rgba(0, 0, 0, 0.53);
+  width: 100%;
+}
+.img {
+  margin: 10px 20px;
+}
+p {
+  color: black;
+}

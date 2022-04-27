@@ -1,0 +1,301 @@
+{
+  "products": [
+    {
+      "brand": "Acer Nitro 5",
+      "description": "Мощный игровой ноутбук на базе процессора intel I7 12го поколения и видеокарты rtx 3050 4GB",
+      "price": "1099",
+      "category": "NoteBook",
+      "image": "https://static.acer.com/up/Resource/Acer/Laptops/Nitro_5/rev-jan-2022-intel/20211227/1/Nitro_5_AGW_KSP03.jpg",
+      "id": 1
+    },
+    {
+      "brand": "Poco X4 Pro 5G",
+      "description": "Производитель\tPOCO Цвет\tBlack Дата выпуска\tФевраль 2022 Операционная система\tAndroid 11 Память\t6/128GB Гарантия (месяцев)\t6 Процессор\t Snapdragon 695 5G (6 nm)",
+      "price": "340",
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/24c/24caa25f83d83e86378f741be5f1cf30.png",
+      "id": 2
+    },
+    {
+      "brand": "Amazfit Verge lite",
+      "description": "Производитель\tXiaomi Цвет\tGrey Датчики\tАкселерометр, датчик освещенности, встроенный пульсометр Наши предложения\tНовинки / Рассрочка 0-0-9 Доступ в интернет\t- Bluetooth\t5.0 Диагональ дисплея\t1.3",
+      "price": "100",
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/a47/1Grey.JPG",
+      "id": 3
+    },
+    {
+      "brand": "Колонки Hoco",
+      "description": "Производитель\tHoco Цвет\tGrey Гарантия (месяцев)\t3 Bluetooth\t+ Размер\t70x70x45 мм Материал корпуса\tMetal, plastic Тип колонок\tPortable speaker",
+      "price": 120,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/694/fd729e3327eb64b2ed42f1ea6c6933a0.png",
+      "id": 4
+    },
+    {
+      "brand": "Колонка JBL",
+      "description": "Производитель\tJBL Цвет\tBlack Гарантия (месяцев)\t12 Наши предложения\tНовинки / Рассрочка 0-0-9 Дополнительно\tВ дорогу и путешествия, влагозащищенная, с подсветкой, длина кабеля: 2 м Bluetooth\t+ 5.1 Максимальное время использования\t3.5 ч.",
+      "price": 510,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/fd1/1Black.JPG",
+      "id": 5
+    },
+    {
+      "brand": "Наушники BEATS",
+      "description": "Производитель\tBeats Цвет\tBlack Гарантия (месяцев)\t3 Наши предложения\tНовинки / Рассрочка 0-0-9 Дополнительно\tКрепление на ухе Bluetooth\t+ Максимальное время использования\t12 ч.",
+      "price": 150,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/801/2Black.JPG",
+      "id": 6
+    },
+    {
+      "brand": "Беспроводные наушники ELARI",
+      "description": "Производитель\tElari Цвет\tWhite Гарантия (месяцев)\t12 Наши предложения\tНовинки / Рассрочка 0-0-9 Радиус действия\t10 м. Bluetooth\t+ 5.0 Максимальное время использования\t80 мин.",
+      "price": 55,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/fd3/1White.JPG",
+      "id": 7
+    },
+    {
+      "brand": "Power Bank Porofon",
+      "description": "Производитель\tBorofone Цвет\tWhite Гарантия (месяцев)\t3 Наши предложения\tХит Размер\t121 x 67 x 9.5 мм Вес\t434 гр. Тип разъема\tUSB 2.0 Type-A; USB 2.0 Type-B; USB 2.0 Type-C;",
+      "price": 25,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/669/1White.JPG",
+      "id": 8
+    },
+    {
+      "brand": "USB кабель Borofon",
+      "description": "Цена в рассрочку\t5642 Цвет\tBlack Наши предложения\tНовинки Дополнительные возможности\tДлина 1 метр, передача данных со смартфона на другой носитель, нейлоновая оплетка Гарантия (ай/месяцев)\t3 Цена в рассрочку\t0",
+      "price": 4,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/e8c/BX36Lightning1.jpg",
+      "id": 9
+    },
+    {
+      "brand": "Зарядные устройства Borofone",
+      "description": "Производитель\tBorofone Цвет\tBlack Наши предложения\tХит Дополнительные возможности\tОгнестойкий материал, кабель в комплекте Мощность\t10 Вт Цена в рассрочку\t0",
+      "price": 3,
+      "category": "accessories",
+      "image": "https://ostore.kg/upload/iblock/852/BA48A%20Micro_1.jpg",
+      "id": 10
+    },
+    {
+      "brand": "Детские часы ELARI",
+      "description": "Производитель\tElari Цвет\tGreen Гарантия (месяцев)\t6 Наши предложения\tНовинки / Рассрочка 0-0-9 Bluetooth\t3.0 Wi-Fi (802.11)\t+ Сенсорный дисплей\t+",
+      "price": 60,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/c8f/1Green.jpeg",
+      "id": 11
+    },
+    {
+      "brand": "Детские часы ELARI",
+      "description": "Производитель\tElari Цвет\tBlack Гарантия (месяцев)\t6 Наши предложения\tНовинки / Рассрочка 0-0-9 Дополнительно\tВстроенная память 32 МБ Тип дисплея\tTFT",
+      "price": 50,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/d78/1Black.JPG",
+      "id": 12
+    },
+    {
+      "brand": "Фитнес браслет HONOR",
+      "description": "Производитель\tHonor Цвет\tBlack Гарантия (месяцев)\t12 Наши предложения\tНовинки / Рассрочка 0-0-9 Датчики\tАкселерометр, встроенный пульсометр с возможностью постоянного измерения пульса Дополнительно\tМониторинг сна, калорий, физической активности, уровня кислорода в крови, таймер, секундомер Bluetooth\t+ 5.0",
+      "price": 30,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/d5d/1Black.JPG",
+      "id": 13
+    },
+    {
+      "brand": "HONOR watch ES",
+      "description": "Производитель\tHonor Цвет\tBlack Гарантия (месяцев)\t12 Наши предложения\tНовинки / Рассрочка 0-0-9 Датчики\tМониторинг сна, калорий, физической активности, уровня кислорода в крови, акселерометр, гироскоп, датчик освещенности, встроенный пульсометр с возможностью постоянного измерения пульса, секундомер Дополнительно\tЕсть возможность смены/регулировки браслета/ремешка",
+      "price": 55,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/df2/1Black.JPG",
+      "id": 14
+    },
+    {
+      "brand": "Amazfit T-REX",
+      "description": "Производитель\tXiaomi Цвет\tGreen Процессор\tHuangshan No.1 (MHS001) Наши предложения\tНовинки / Рассрочка 0-0-9 Датчики\tАкселерометр, гироскоп, компас, датчик освещенности, встроенный пульсометр с возможностью постоянного измерения пульса Доступ в интернет\t- Bluetooth\t5.0",
+      "price": 145,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/335/1Green.jpg",
+      "id": 15
+    },
+    {
+      "brand": "Xiaomi MI Band 5",
+      "description": "Производитель\tXiaomi Цвет\tBlack Цвет\tBlack Гарантия (месяцев)\t3 Наши предложения\tНовинки / Хит Датчики\tМониторинг сна, физической активности, акселерометр, гироскоп, встроенный пульсометр с возможностью постоянного измерения пульса",
+      "price": 35,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/d2f/1Black.JPG",
+      "id": 16
+    },
+    {
+      "brand": "Amazfit GTR",
+      "description": "Производитель\tXiaomi Цвет\tBlack Процессор\tMediatek Наши предложения\tНовинки / Рассрочка 0-0-9 Датчики\tАкселерометр, гироскоп, компас, датчик освещенности, встроенный пульсометр Доступ в интернет\t- Bluetooth\t5.0",
+      "price": 150,
+      "category": "SmartWatch",
+      "image": "https://ostore.kg/upload/iblock/6e1/1Black.JPG",
+      "id": 17
+    },
+    {
+      "brand": "Xiaomi 12X",
+      "description": "Производитель\tXiaomi Цвет\tPurple Дата выпуска\tДекабрь 2021 Операционная система\tAndroid 11 Память\t8GB | 128Gb Гарантия (месяцев)\t6 Процессор\tSnapdragon 870 5G (7 nm)",
+      "price": 800,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/d39/Xiaomi%20Mi%2012X.JPG",
+      "id": 18
+    },
+    {
+      "brand": "Xiaomi 11T",
+      "description": "Производитель\tXiaomi Цвет\tBlue Дата выпуска\tСентябрь 2021 Операционная система\tAndroid 11 Память\t8GB | 256Gb Гарантия (месяцев)\t6 Процессор\t8-Core MediaTek MT6893 Dimensity 1200",
+      "price": 580,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/e38/1Blue.JPG",
+      "id": 19
+    },
+    {
+      "brand": "Samsung Galaxy A72",
+      "description": "Производитель\tSamsung Цвет\tBlack Дата выпуска\tМарт 2021 Операционная система\tAndroid 11 Память\t4GB | 128Gb Процессор\t8-Core Qualcomm Snapdragon 720G Гарантия (месяцев)\t12",
+      "price": 450,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/5d7/5d7a891afd88869efc70b4a093610265.png",
+      "id": 20
+    },
+    {
+      "brand": "Samsung Galaxy A52",
+      "description": "Производитель\tSamsung Цвет\tBlack Дата выпуска\tМарт 2021 Операционная система\tAndroid 11 Память\t4GB | 128Gb Процессор\t8-Core Qualcomm Snapdragon 720G Гарантия (месяцев)\t12",
+      "price": 300,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/030/030186fa84451c5f23799de63b8678ee.png",
+      "id": 21
+    },
+    {
+      "brand": "Tecno Camon 17P",
+      "description": "Производитель\tTecno Цвет\tBlack Дата выпуска\tМай 2021 Операционная система\tHiOS 7.6 (Android 11) Память\t6GB | 128Gb Процессор\t8-Core MediaTek Helio G85 Гарантия (месяцев)\t13",
+      "price": 230,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/814/1Black.JPG",
+      "id": 22
+    },
+    {
+      "brand": "Honor 9X Lite",
+      "description": "Производитель\tHonor Цвет\tBlack Дата выпуска\tАпрель 2020 Операционная система\tAndroid 9.0 Pie Память\t4GB | 128Gb Гарантия (месяцев)\t12 Процессор\t8-Core Huawei HiSilicon KIRIN 710F",
+      "price": 140,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/7cf/1Black.jpg",
+      "id": 23
+    },
+    {
+      "brand": "Xiaomi POCO C31",
+      "description": "Производитель\tPOCO Цвет\tGrey Дата выпуска\tСентябрь 2021 Операционная система\tMIUI 12 (Android 10) Память\t4GB | 64Gb Процессор\t8-Core MediaTek Helio G35 Гарантия (месяцев)\t12",
+      "price": 180,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/431/1Black.JPG",
+      "id": 24
+    },
+    {
+      "brand": "Xiaomi POCO X3 GT",
+      "description": "Производитель\tPOCO Цвет\tWhite Дата выпуска\tАвгуст 2021 Операционная система\tMIUI for POCO 12.5 (Android 11) Память\t8GB | 256Gb Процессор\t8-Core MediaTek Dimensity 1100 Гарантия (месяцев)\t6",
+      "price": 330,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/524/1White.jpg",
+      "id": 25
+    },
+    {
+      "brand": "INOI 5 2021",
+      "description": "Производитель\tINOI Цвет\tBlack Дата выпуска\tОктябрь 2020 Операционная система\tAndroid 10 Память\t2GB | 16Gb Процессор\t4-Core Unisoc SC9832E Гарантия (месяцев)\t12",
+      "price": 80,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/f75/1Black.jpg",
+      "id": 26
+    },
+    {
+      "brand": "INOI 7 2020",
+      "description": "Производитель\tINOI Цвет\tBlack Дата выпуска\tИюнь 2020 Операционная система\tAndroid 9.0 Память\t2GB | 16Gb Гарантия (месяцев)\t12 Процессор\t4-Core SC9832E",
+      "price": 90,
+      "category": "SmartPhone",
+      "image": "https://ostore.kg/upload/iblock/8fe/1Black.JPG",
+      "id": 27
+    },
+    {
+      "brand": "Ноутбук Dell Alienware m15 R4 Gaming Intel Core i7-10870H",
+      "description": "16GB DDR4, 512GB SSD, NVIDIA RTX 3070 8GB GDDR6, 15.6\"FHD (1920x1080) 144Hz IPS, WiFi ax, BT 5.1, HD WC, CR, Win 11 Home, Backlit RGB Русская клавиатура, Dark Side of the Moon",
+      "price": 2400,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/1_2528_8071.jpg",
+      "id": 28
+    },
+    {
+      "brand": "MSI Pulse GL66 (11UEK-434XUZ) Titanium Gray, Intel® Core™ i7-11800H",
+      "description": "16GB DDR4, 1TB SSD Nvme PCIe, NVIDIA® GeForce® RTX 3060 6GB GDDR6, 15.6\" QHD (2560x1440), 165Hz DCI-P3 100% typical, USB 3.2, WebCam, Wifi 6, BT 5.1, DTS, Illuminated Keyboard RGB, NoOS, 3 cell , 53,5Whr, 2.1k + MSI Backpack",
+      "price": 2100,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/41vjydkrfbzwlsld3r8u_4739.jpg",
+      "id": 29
+    },
+    {
+      "brand": "Acer Nitro AN517-57 Black Intel Core i5-10300H (up to 4.5Ghz)",
+      "description": "48GB DDR4, 1TB + 512GB M.2 NVMe™ PCIe® 3.0 SSD, NVIDIA® GeForce® RTX 3050 4GB GDDR6, 17.3\" IPS FULL HD (1920x1080), WiFi 6, BT 5.0, HD WebCam, Backlight Chiclet Keyboard, Eng-Rus",
+      "price": 1850,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/an517-54_7493.jpg",
+      "id": 30
+    },
+    {
+      "brand": "Lenovo V14 Celeron DC N4020 1.1-2.8GHz",
+      "description": "4GB,500GB,14\"HD,RUS,DOS HDMI, IRON GRAY",
+      "price": 300,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/ww-lenovo-laptop-v14-amd-hero_3517.webp",
+      "id": 31
+    },
+    {
+      "brand": "Lenovo Ideapad V14 Iron Gray Intel Dual Core N4020 (up to 2.8Ghz)",
+      "description": "4GB, 128GB SSD, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus",
+      "price": 300,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/1_2528_4913.jpg",
+      "id": 32
+    },
+    {
+      "brand": "Ноутбук Dell Alienware m15 R5 AMD Ryzen 7 5800H (3.20-4.40GHz)",
+      "description": "16GB DDR4, 1TB SSD, NVIDIA RTX 3070 8GB GDDR6, 15.6\"QHD (2560x1440) 240Hz IPS, WiFi ax, BT 5.1, HD WC, Win 11 Home, Backlit RGB Русская клавиатура, Dark Side of the Moon",
+      "price": 2500,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/2_8415.jpg",
+      "id": 33
+    },
+    {
+      "brand": "Ноутбук MSI GL66 Pulse 11UGKV-001 9S7-158124-053 Intel Core i7-11800H (2.30-4.60GHz)",
+      "description": "16GB DDR4, 512GB SSD, NVIDIA RTX 3070 8GB GDDR6, 15.6\"FHD (1920x1080) 144Hz IPS, WiFi ax, BT 5.1, HD WC, Win 10 Home, Backlit RGB Русская клавиатура, Black",
+      "price": 2400,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/41vjydkrfbzwlsld3r8u_6107.jpg",
+      "id": 34
+    },
+    {
+      "brand": "MSI Katana GF66 (11UG-828XUZ) Black, Intel® Core™ i7-11800H",
+      "description": "16GB DDR4, 512SSD Nvme PCIe, NVIDIA® GeForce® RTX 3070 8GB GDDR6, 15.6\" FullHD (1920x1080), 144Hz, USB 3.2, WebCam, Wifi 6, BT 5.1, DTS, Illuminated Keyboard Red, NoOS, 3 cell , 53,5Whr, 2.2kg",
+      "price": 2200,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/1%20msi%20katana%20gf66_4683_2338.webp",
+      "id": 35
+    },
+    {
+      "brand": "Ноутбук Dell Alienware m15 R5 Gaming AMD Ryzen 7 5800H (3.20-4.40GHz)",
+      "description": " 16GB DDR4, 512GB SSD, NVIDIA RTX 3070 8GB GDDR6, 15.6\"FHD (1920x1080) 165Hz IPS, WiFi ax, BT 5.1, HD WC, Win 10 Home, Backlit RGB Русская клавиатура, Dark Side of the Moon",
+      "price": 2350,
+      "category": "NoteBook",
+      "image": "https://enter.kg/images/stories/virtuemart/product/1_2528_4132.jpg",
+      "id": 36
+    }
+  ],
+  "likes": [],
+  "comments": [
+    {
+      "author": "admin@admin.com",
+      "title": "Hello world\n",
+      "prodId": 1,
+      "id": 1
+    }
+  ]
+}

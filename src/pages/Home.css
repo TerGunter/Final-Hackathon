@@ -1,0 +1,45 @@
+.images-selector input {
+  position: absolute;
+  z-index: 10;
+}
+
+.images-selector input:checked + .img-card {
+  filter: none;
+  transform: scaleY(1);
+}
+
+.img-card {
+  display: inline-block;
+  width: 250px;
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  transition: all 200ms ease-in;
+  filter: grayscale(1) opacity(0.8);
+}
+
+.img-card:hover {
+  filter: grayscale(0) opacity(1);
+}
+
+.img-card::before,
+.img-card::after {
+  transform: scaleY(-1);
+}
+
+.img1 {
+  background-image: url(https://object.pscloud.io/cms/cms/Photo/img_0_62_2256_0_1.jpg);
+}
+
+.img2 {
+  background-image: url(https://xistore.by/upload/resize/element/61795/d2d/facfd0e7a72ca89023cee035d28ac6a3_482_482_50@x2.webp);
+}
+
+.img3 {
+  background-image: url(https://xistore.by/upload/resize/element/73414/16f/f5f03880d8459735429784a9dc7b7845_482_482_50@x2.webp);
+}
+
+.img4 {
+  background-image: url(https://pp.userapi.com/c625216/v625216050/7b26/V4bs4gXxfCI.jpg);
+}
